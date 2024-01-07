@@ -1,2 +1,2 @@
-# c/c++
-about c/c++
+# c language
+about c language
