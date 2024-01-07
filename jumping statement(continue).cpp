@@ -1,0 +1,17 @@
+#include<stdio.h>
+#include<conio.h>
+
+int main()
+{
+	int i;
+	
+	for(i=1;i<=10;i++)
+	{
+		if(i==7)
+		continue;	//exit(0)
+		printf("%d",i);	
+	}
+	printf("\n jinal kathiriya");
+	
+	return 0;
+}
